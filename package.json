@@ -1,0 +1,89 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "leme_js",
+        "scope": null,
+        "escapedName": "leme_js",
+        "name": "leme_js",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Mahid"
+    ]
+  ],
+  "_from": "leme_js@latest",
+  "_id": "leme_js@2.6.1",
+  "_inCache": true,
+  "_location": "/leme_js",
+  "_nodeVersion": "6.2.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/leme_js-2.6.1.tgz_1476219718411_0.8304024937096983"
+  },
+  "_npmUser": {
+    "name": "mahid_hm",
+    "email": "mahi2hm@outlook.com"
+  },
+  "_npmVersion": "3.10.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "leme_js",
+    "scope": null,
+    "escapedName": "leme_js",
+    "name": "leme_js",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/leme_js/-/leme_js-2.6.1.tgz",
+  "_shasum": "bdfd7f4bd0dd0e87bddea622149a8c6e922ba475",
+  "_shrinkwrap": null,
+  "_spec": "leme_js",
+  "_where": "C:\\Users\\Mahid",
+  "author": {
+    "name": "mahid_hm"
+  },
+  "bin": {
+    "leme_js": "./bin/leme_js"
+  },
+  "bugs": {
+    "url": "https://itotafrica.com/forum/"
+  },
+  "dependencies": {
+    "colors": "^1.0.3",
+    "diff": "^1.2.1",
+    "promise": "^7.1.1",
+    "workshopper-adventure": "^5.0.0"
+  },
+  "description": "Learn JavaScript by adventuring around in the terminal.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "bdfd7f4bd0dd0e87bddea622149a8c6e922ba475",
+    "tarball": "https://registry.npmjs.org/leme_js/-/leme_js-2.6.1.tgz"
+  },
+  "gitHead": "b080365f9627e8876dfe63f2ed53e89ef735eb70",
+  "homepage": "https://github.com/mahi2/leme_js#readme",
+  "license": "MIT",
+  "main": "./index.js",
+  "maintainers": [
+    {
+      "name": "mahid_hm",
+      "email": "mahi2hm@outlook.com"
+    }
+  ],
+  "name": "leme_js",
+  "optionalDependencies": {},
+  "preferGlobal": true,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "url": "git+https://github.com/mahi2/leme_js.git"
+  },
+  "scripts": {},
+  "version": "2.6.1"
+}
